@@ -1,0 +1,22 @@
+/**
+ * file: preparing_to_make_mdisc_set_on_20april2026.txt
+ * type: plain-text
+ * date: 20_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+karbytes is in the process(*) of burning three M_DISCs which each have the same data contents burned to them.
+
+Those data contents consist of, at minimum, all of the zip files which are enumerated on the following web page in the folder named karbytes2026_3 (i.e. disc 3 of 3):
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_3/
+
+Two unwritten 25-gigabyte M_DISCs have a total data storage capacity sufficient to store all of karbytes (up to the point in time in which the “micro directory” named raw_github_files_directory_KARLINA_OBJECT_extension_pack_63 of the website named Karbytes For Life Blog dot WordPress dot Com is determined by karbytes to be finalized (i.e. closed to further changes)).
+
+Sincerely,
+karbytes
+
+(*) The aforementioned process (of burning three (or more) M_DISCs which each contain exclusively the entire contents of karbytes2026_3 (as that data collection is configured at 11:59PM Pacific Standard Time on the last day in which the aforementioned “micro directory” and accompanying GitHub repository is closed to further changes)) is expected to take no longer than twelve months to complete (starting at the time this web page was first published (and the day this web page was first published is 20_APRIL_2026)).
