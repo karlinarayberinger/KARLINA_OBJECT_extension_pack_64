@@ -1,7 +1,7 @@
 /**
  * file: preparing_to_make_mdisc_set_on_20april2026.txt
  * type: plain-text
- * date: 20_APRIL_2026
+ * date: 04_MAY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -14,7 +14,7 @@ Those data contents consist of, at minimum, all of the zip files which are enume
 
 https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_3/
 
-Two unwritten 25-gigabyte M_DISCs have a total data storage capacity sufficient to store all of karbytes (up to the point in time in which the “micro directory” named raw_github_files_directory_KARLINA_OBJECT_extension_pack_63 of the website named Karbytes For Life Blog dot WordPress dot Com is determined by karbytes to be finalized (i.e. closed to further changes)).
+Two unwritten 25-gigabyte M_DISCs have a total data storage capacity sufficient to store all of karbytes (up to the point in time in which the “micro directory” named raw_github_files_directory_KARLINA_OBJECT_extension_pack_64 of the website named Karbytes For Life Blog dot WordPress dot Com is determined by karbytes to be finalized (i.e. closed to further changes)).
 
 Sincerely,
 karbytes
