@@ -1,0 +1,13 @@
+/**
+ * file: journal_karbytes_11may2026_p0.txt
+ * type: plain-text
+ * date: 03_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Money needs to be stored inside of some physical commodity (including time) in order to measurably exist.
+
+Money is analogous to energy (especially given the fact that energy takes the form of some kind of change in matter or displacement of matter (i.e. kinetic energy) or else energy takes the form of stored energy (i.e. potential energy) which can later be released as kinetic energy).
+
+kinetic_energy : potential_energy :: services : property.
