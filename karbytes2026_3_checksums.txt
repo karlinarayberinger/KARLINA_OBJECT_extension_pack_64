@@ -12,13 +12,13 @@ file_1: KARLINA_OBJECT_extension_pack_63-main.zip // SHA-256: 62ddc42bf836de6410
 
 file_2: karbytes_basement_54-main.zip // SHA-256: 0990ea5e1499bbb07df1620d8133f4371a238f0324ab1dbb453213b3c1b06c43
 
-file_3: KARBYTES_FOR_LIFE_BLOG-main_06may2026.zip // SHA-256: 0e9d2d68dba0b1abc16508af356526c51e6ff7a8015f9d8ccb9dc7f208cfd91c
+file_3: KARBYTES_FOR_LIFE_BLOG-main_08may2026.zip // SHA-256: af42d0b3e53f3e444c329a0524f19c07d8f6e029c41d255f779c72809bf05876
 
-file_4: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
+file_4: karbytes_wayback_machine_saves_precision_batches_extension_1-main_08may2026.zip // SHA-256: 582b23006ea65a06bb29f5133df04fb03d4a6f0d3f6d23dd06fd5fd030869c70
 
-file_5: KARBYTES_BLOG_APPS-main_29march2026.zip // SHA-256: f3d8d63f7e96a14e1ef5cf54f10c6dc79ef8459c71766bae43667cf2fe2111a2
+file_5: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
-file_6: KARLINA_OBJECT_extension_pack_64-main_06may2026.zip // SHA-256: 6c9a03d60695e0c438f48bb78aa705401bb187df48d418072ef8214d7493d69d
+file_6: KARBYTES_BLOG_APPS-main_29march2026.zip // SHA-256: f3d8d63f7e96a14e1ef5cf54f10c6dc79ef8459c71766bae43667cf2fe2111a2
 
 file_7: KARLINA_OBJECT-main.zip // SHA-256: c061b3183a087834567cff509303f6d6cb49cd7510c3e165760975d177f1c579
 
@@ -26,7 +26,7 @@ file_8: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630d
 
 file_9: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: 0fd4db39e343e6e3c387b6aaaa6500b0d7714bcbcd5085b51592f34fe73c54fe
 
-file_10: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06may2026.zip // SHA-256: 5791a1cbd6df03cfdee14f486d43b6d99b99be19a031ec2f2d7675bf49b830a8
+file_10: KARLINA_OBJECT_extension_pack_64-main_08may2026.zip // SHA-256: 1fa2623c80d4efcc2cc5a6930aa5b9462b217f44bda92e75ed19b9c78143a16b
 
 file_11: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
