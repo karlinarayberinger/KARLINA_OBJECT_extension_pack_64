@@ -1,12 +1,12 @@
 /**
  * file: chatgpt_karbytes_14may2026_p0.txt
  * type: plain-text
- * date: 08_MAY_2026
+ * date: 09_MAY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 (using Standard Text Mode (including Image Generation)) which took place between 11:59PM Pacific Standard Time on 08_MAY_2026 and 11:59PM Pacific Standard Time on 09_MAY_2026.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 (using Standard Text Mode (including Image Generation)) which took place between 11:59PM Pacific Standard Time on 07_MAY_2026 and 11:59PM Pacific Standard Time on 08_MAY_2026.
 
 * * *
 
@@ -63,6 +63,12 @@ I wrote that journal entry with the thought that the M_DISC backups of KARBYTES 
 Those M_DISCs encode a (relatively complete) set of verbatim replicable files which each store timelessly valuable experiential assets such as videos, sound, text, software, images, genomes, and other digital information formats.
 
 That set of digital files is named KARBYTES and is defined by the following three web pages:
+
+https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_code_possibly_stops_growing/
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/
 
 ChatGPT:
 
