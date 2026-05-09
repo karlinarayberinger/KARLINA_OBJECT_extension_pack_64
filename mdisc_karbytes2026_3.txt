@@ -1,534 +1,523 @@
-<hr />
-<p><strong>mdisc_karbytes2026_3</strong></p>
-<hr />
-<p><span style="background: #ffff00">The text in the web page section below was copied from the plain-text file named <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_64/main/mdisc_karbytes2026_3.txt" target="_blank" rel="noopener">mdisc_karbytes2026_3.txt</a> in the &#8220;micro directory&#8221; website section named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_64/" target="_blank" rel="noopener">raw_github_files_directory_KARLINA_OBJECT_extension_pack_64</a> in the &#8220;macro directory&#8221; website section (named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY</a>) of the website named <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/" target="_blank" rel="noopener">Karbytes For Life Blog dot WordPress dot Com</a>. Some of the aforementioned copied <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener">plain-text</a> was then replaced with relevant <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Hypertext" target="_blank" rel="noopener">hypertext</a> on this web page.</span></p>
-<p><em>To view hidden text inside the preformatted text box below, scroll horizontally.</em></p>
-<hr>
-<pre>
 /**
- * file: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_64/main/mdisc_karbytes2026_3.txt" target="_blank" rel="noopener">mdisc_karbytes2026_3.txt</a>
- * type: <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Plain_text" target="_blank" rel="noopener">plain-text</a>
+ * file: mdisc_karbytes2026_3.txt
+ * type: plain-text
  * date: 09_MAY_2026
- * author: <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">karbytes</a>
- * license: <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a>
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
  */
 
-<span style="background: #ffff00">The following list of <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/M-DISC" target="_blank" rel="noopener">M_DISC</a> contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/about_karbytes/" target="_blank" rel="noopener">karbytes</a> as that collection is configured at 11:59PM Pacific Standard Time on [UNDEFINED_DAY] (and the part of that collection which is mainly featured on this web page is named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/preparing_to_make_mdisc_set_on_20april2026/" target="_blank" rel="noopener">karbytes2026_3</a>).</span> 
+The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [UNDEFINED_DAY] (and the part of that collection which is mainly featured on this web page is named karbytes2026_3). 
 
-<em>As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/" target="_blank" rel="noopener">karbytes2025_22</a> is officially determined to be in its finalized state (i.e. closed to further modifications).</em>
+As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, karbytes2025_22 is officially determined to be in its finalized state (i.e. closed to further modifications).
 
-<em>As of 30_APRIL_2026 on 11:59PM Pacific Standard Time, <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_2/" target="_blank" rel="noopener">karbytes2026_2</a> is determined to be in its finalized state (i.e. closed to further modifications).</em>
+As of 30_APRIL_2026 on 11:59PM Pacific Standard Time, karbytes2026_2 is determined to be in its finalized state (i.e. closed to further modifications).
 
-<em>As of 31_DECEMBER_2026 on 11:59PM Pacific Standard Time, <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_3/" target="_blank" rel="noopener">karbytes2026_3</a> is determined to be in its finalized state (i.e. closed to further modifications).</em>
+As of 31_DECEMBER_2026 on 11:59PM Pacific Standard Time, karbytes2026_3 is determined to be in its finalized state (i.e. closed to further modifications).
 
-<strong><em>Important Note: Indefinitely many 25-<a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Gigabyte" target="_blank" rel="noopener">gigabyte</a> M_DISCs contain the entirety of the web-hosted file collection named karbytes. The subset of karbytes named <u>karbytes2025_22</u> only encompasses the first of those discs (and that disc is named <u>karbytes_origins</u>). The next disc after that is named <u>karbytes_nexus</u> and encompasses karbytes' whole genome and <strong>karbytes2026_0</strong> and some other post-2025 karbytes content). The third disc in that set is named <u>karbytes_refinement</u> and encompasses some post-April-2026 karbytes content.</em></strong>
+Important Note: Indefinitely many 25-gigabyte M_DISCs contain the entirety of the web-hosted file collection named karbytes. The subset of karbytes named karbytes2025_22 only encompasses the first of those discs (and that disc is named karbytes_origins). The next disc after that is named karbytes_nexus and encompasses karbytes' whole genome and karbytes2026_0 and some other post-2025 karbytes content). The third disc in that set is named karbytes_refinement and encompasses some post-April-2026 karbytes content.
 
-<span style="background: #ffd700">Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as <strong>karbytes2025_22</strong>.</span>
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2025_22.
 
-<span style="background: #ffd700">Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as <strong>karbytes2026_2</strong>.</span>
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2026_2.
 
-<span style="background: #ffd700">Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as <strong>karbytes2026_3</strong>.</span>
+Throughout all of karbytes' lifetime, karbytes intends to create at least three M_DISC copies of the file collection referred to on this web page as karbytes2026_3.
 
 * * *
   
-<span style="background:#00ffff">The total number of <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Megabyte" target="_blank" rel="noopener">megabytes</a> in the folder named <strong>karbytes2026_3</strong> (which contains exclusively <span style="background:#ffff00"><u>16 zip files</u></span>) was calculated using a small <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener">Python</a> program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:</span>
+The total number of megabytes in the folder named karbytes2026_3 (which contains exclusively 16 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
-<a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/print_folder_contents" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/print_folder_contents</a>
+https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
-<span style="background:#7949fc">A list of <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Checksum" target="_blank" rel="noopener">checksum</a> values for each file inside the aforementioned folder named karbytes2026_0 was calculated using a small <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener">Python</a> program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:</span>
+A list of checksum values for each file inside the aforementioned folder named karbytes2026_0 was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
-<a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/print_folder_checksums" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/print_folder_checksums</a>
+https://karbytesforlifeblog.wordpress.com/print_folder_checksums
 
 * * *
 
-Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/GitHub" target="_blank" rel="noopener">GitHub</a> repository (which is associated with the GitHub username <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger" target="_blank" rel="noopener">@karlinarayberinger</a>).
+Each zip file which is enumerated on this web page has exactly one uniquely corresponding karbytes-created GitHub repository (which is associated with the GitHub username @karlinarayberinger).
 
 Each zip file which is enumerated on this web page whose file name contains the string "_[undefined_day]" (quotation characters not included) was refers to exactly one karbytes-created GitHub repository which karbytes thinks is likely that karbytes will eventually update after 11:59PM Pacific Standard Time on [UNDEFINED_DAY]. 
 
-Each zip file which is enumerated on this web page has exactly one uniquely corresponding <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/micro_directory_definition/" target="_blank" rel="noopener">"micro directory"</a> web page (in the web page named <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_macro_directory/" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY</a> of the website named <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/" target="_blank" rel="noopener">Karbytes For Life Blog dot WordPress dot Com</a>) if and only if that zip file is derived from a public (rather than from a private) GitHub repository. Zip files which are enumerated on this web page and which are downloaded from private GitHub repositories (generally) contain the leading characters "karbytes_basement_" (quotations not included).
+Each zip file which is enumerated on this web page has exactly one uniquely corresponding "micro directory" web page (in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY of the website named Karbytes For Life Blog dot WordPress dot Com) if and only if that zip file is derived from a public (rather than from a private) GitHub repository. Zip files which are enumerated on this web page and which are downloaded from private GitHub repositories (generally) contain the leading characters "karbytes_basement_" (quotations not included).
 
-Finally, each zip file which is referenced on this web page has a file name with the trailing characters "-main.zip" (quotations not included) to indicate that the respective zip file was downloaded from the main branch of the corresponding GitHub repository (and that GitHub repository contains only one branch (i.e. the master branch) rather than branches representing <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/Branching_(version_control)" target="_blank" rel="noopener">commit histories</a> which are not identical to the master branch of that GitHub repository).
+Finally, each zip file which is referenced on this web page has a file name with the trailing characters "-main.zip" (quotations not included) to indicate that the respective zip file was downloaded from the main branch of the corresponding GitHub repository (and that GitHub repository contains only one branch (i.e. the master branch) rather than branches representing commit histories which are not identical to the master branch of that GitHub repository).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-<span style="background: #ffff00">M_DISC 1 of 3 (disc contains exactly one folder named karbytes2025_22)</span>
+M_DISC 1 of 3 (disc contains exactly one folder named karbytes2025_22)
 
-<span style="background: #ffff00">M_DISC 1 of 3 data collection name: <strong><em>karbytes_origins</em></strong></span>
+M_DISC 1 of 3 data collection name: karbytes_origins
 
-<span style="background: #ffff00">M_DISC 1 of 3 data collection size: approximately 21 gigabytes</span>
+M_DISC 1 of 3 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 karbytes2025_22: // folder contains exactly 163 files (approximately 19409.20 megabytes total).
 
-    - zip_file_0: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_instagram_karbytes_2024/" target="_blank" rel="noopener">INSTAGRAM_KARBYTES_2024-main.zip</a> // 332.7 megabytes
+    - zip_file_0: INSTAGRAM_KARBYTES_2024-main.zip // 332.7 megabytes
 
-    - zip_file_1: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW/" target="_blank" rel="noopener">INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip</a> // 222.0 megabytes
+    - zip_file_1: INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 222.0 megabytes
 
-    - zip_file_2: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_INSTAGRAM_SCREENSHOTS_2022_KARBYTES/" target="_blank" rel="noopener">INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip</a> // 174.8 megabytes
+    - zip_file_2: INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 174.8 megabytes
 
-    - zip_file_3: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_23AndMe_Ancestry_Data/" target="_blank" rel="noopener">karbytes_23AndMe_Ancestry_Data-main.zip</a> // 6.8 megabytes
+    - zip_file_3: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 megabytes
 
-    - zip_file_4: <strong>karbytes_basement_0-main.zip</strong> // 156.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_4: karbytes_basement_0-main.zip // 156.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_5: <strong>karbytes_basement_1-main.zip</strong> // 172.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_5: karbytes_basement_1-main.zip // 172.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_6: <strong>karbytes_basement_2-main.zip</strong> // 69.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_6: karbytes_basement_2-main.zip // 69.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_7: <strong>karbytes_basement_3-main.zip</strong> // 2.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_7: karbytes_basement_3-main.zip // 2.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_8: <strong>karbytes_basement_4-main.zip</strong> // 25.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_8: karbytes_basement_4-main.zip // 25.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_9: <strong>karbytes_basement_5-main.zip</strong> // 7.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_9: karbytes_basement_5-main.zip // 7.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_10: <strong>karbytes_basement_6-main.zip</strong> // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_10: karbytes_basement_6-main.zip // 1.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_11: <strong>karbytes_basement_7-main.zip</strong> // 2.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_11: karbytes_basement_7-main.zip // 2.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_12: <strong>karbytes_basement_8-main.zip</strong> // 11.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_12: karbytes_basement_8-main.zip // 11.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_13: <strong>karbytes_basement_9-main.zip</strong> // 36.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_13: karbytes_basement_9-main.zip // 36.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_14: <strong>karbytes_basement_10-main.zip</strong> // 16.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_14: karbytes_basement_10-main.zip // 16.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_15: <strong>karbytes_basement_11-main.zip</strong> // 27.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_15: karbytes_basement_11-main.zip // 27.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_16: <strong>karbytes_basement_12-main.zip</strong> // 7.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_16: karbytes_basement_12-main.zip // 7.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_17: <strong>karbytes_basement_13-main.zip</strong> // 70.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_17: karbytes_basement_13-main.zip // 70.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_18: <strong>karbytes_basement_18-main.zip</strong> // 35.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_18: karbytes_basement_18-main.zip // 35.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_19: <strong>karbytes_basement_19-main.zip</strong> // 75.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_19: karbytes_basement_19-main.zip // 75.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_20: <strong>karbytes_basement_20-main.zip</strong> // 22.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_20: karbytes_basement_20-main.zip // 22.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_21: <strong>karbytes_basement_21-main.zip</strong> // 17.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_21: karbytes_basement_21-main.zip // 17.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_22: <strong>karbytes_basement_22-main.zip</strong> // 116.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_22: karbytes_basement_22-main.zip // 116.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_23: <strong>karbytes_basement_n-main.zip</strong> // 258.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_23: karbytes_basement_n-main.zip // 258.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_24: <strong>karbytes_basement_28-main.zip</strong> // 139.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_24: karbytes_basement_28-main.zip // 139.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_25: <strong>karbytes_basement_39-main.zip</strong> // 11.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_25: karbytes_basement_39-main.zip // 11.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_26: <strong>karbytes_basement_40-main.zip</strong> // 153.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_26: karbytes_basement_40-main.zip // 153.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_27: <strong>karbytes_basement_41-main.zip</strong> // 67.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_27: karbytes_basement_41-main.zip // 67.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_28: <strong>karbytes_basement_42-main.zip</strong> // 25.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_28: karbytes_basement_42-main.zip // 25.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_29: <strong>karbytes_basement_43-main.zip</strong> // 87.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_29: karbytes_basement_43-main.zip // 87.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_30: <strong>karbytes_basement_44-main.zip</strong> // 9.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_30: karbytes_basement_44-main.zip // 9.6 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_31: <strong>karbytes_basement_45-main.zip</strong> // 37.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_31: karbytes_basement_45-main.zip // 37.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_32: <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/karbytes_beginner_bytes_computer_science_2010_to_2015" target="_blank" rel="noopener">karbytes_beginner_bytes_computer_science_2010_to_2015.zip</a> // 347.6 megabytes
+    - zip_file_32: karbytes_beginner_bytes_computer_science_2010_to_2015.zip // 347.6 megabytes
 
-    - zip_file_33: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BRAND_IMAGES_2021/" target="_blank" rel="noopener">KARBYTES_BRAND_IMAGES_2021-main.zip</a> // 10.2 megabytes
+    - zip_file_33: KARBYTES_BRAND_IMAGES_2021-main.zip // 10.2 megabytes
 
-    - zip_file_34: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/" target="_blank" rel="noopener">KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip</a> // 754.7 kilobytes
+    - zip_file_34: KARBYTES_FOR_LIFE_BLOG-main_31december2025.zip // 754.7 kilobytes
 
-    - zip_file_35: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_0/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_0-main.zip</a> // 32.5 megabytes
+    - zip_file_35: KARBYTES_JOURNAL_2022_PART_0-main.zip // 32.5 megabytes
 
-    - zip_file_36: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_1/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_1-main.zip</a> // 19.7 megabytes
+    - zip_file_36: KARBYTES_JOURNAL_2022_PART_1-main.zip // 19.7 megabytes
 
-    - zip_file_37: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_2-main.zip</a> // 7.9 megabytes
+    - zip_file_37: KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.9 megabytes
 
-    - zip_file_38: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_3/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_3-main.zip</a> // 18.7 megabytes
+    - zip_file_38: KARBYTES_JOURNAL_2022_PART_3-main.zip // 18.7 megabytes
 
-    - zip_file_39: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_4-main.zip</a> // 56.8 kilobytes
+    - zip_file_39: KARBYTES_JOURNAL_2022_PART_4-main.zip // 56.8 kilobytes
 
-    - zip_file_40: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_5/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_5-main.zip</a> // 25.1 megabytes
+    - zip_file_40: KARBYTES_JOURNAL_2022_PART_5-main.zip // 25.1 megabytes
 
-    - zip_file_41: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_6/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_6-main.zip</a> // 58.9 megabytes
+    - zip_file_41: KARBYTES_JOURNAL_2022_PART_6-main.zip // 58.9 megabytes
 
-    - zip_file_42: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_7/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_7-main.zip</a> // 113.6 megabytes
+    - zip_file_42: KARBYTES_JOURNAL_2022_PART_7-main.zip // 113.6 megabytes
 
-    - zip_file_43: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_8/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_8-main.zip</a> // 72.7 megabytes
+    - zip_file_43: KARBYTES_JOURNAL_2022_PART_8-main.zip // 72.7 megabytes
 
-    - zip_file_44: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_9/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_9-main.zip</a> // 58.7 megabytes
+    - zip_file_44: KARBYTES_JOURNAL_2022_PART_9-main.zip // 58.7 megabytes
 
-    - zip_file_45: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_10/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_10-main.zip</a> // 13.5 megabytes
+    - zip_file_45: KARBYTES_JOURNAL_2022_PART_10-main.zip // 13.5 megabytes
 
-    - zip_file_46: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_11/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_11-main.zip</a> // 50.9 megabytes
+    - zip_file_46: KARBYTES_JOURNAL_2022_PART_11-main.zip // 50.9 megabytes
 
-    - zip_file_47: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_12/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_12-main.zip</a> // 39.2 megabytes
+    - zip_file_47: KARBYTES_JOURNAL_2022_PART_12-main.zip // 39.2 megabytes
 
-    - zip_file_48: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_13/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_13-main.zip</a> // 35.0 megabytes
+    - zip_file_48: KARBYTES_JOURNAL_2022_PART_13-main.zip // 35.0 megabytes
 
-    - zip_file_49: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_14/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_14-main.zip</a> // 55.9 megabytes
+    - zip_file_49: KARBYTES_JOURNAL_2022_PART_14-main.zip // 55.9 megabytes
 
-    - zip_file_50: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_15/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_15-main.zip</a> // 65.0 megabytes
+    - zip_file_50: KARBYTES_JOURNAL_2022_PART_15-main.zip // 65.0 megabytes
 
-    - zip_file_51: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16B/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16B-main.zip</a> // 160.6 megabytes
+    - zip_file_51: KARBYTES_JOURNAL_2022_PART_16B-main.zip // 160.6 megabytes
 
-    - zip_file_52: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16C/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16C-main.zip</a> // 208.3 megabytes
+    - zip_file_52: KARBYTES_JOURNAL_2022_PART_16C-main.zip // 208.3 megabytes
 
-    - zip_file_53: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16D/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16D-main.zip</a> // 226.0 megabytes
+    - zip_file_53: KARBYTES_JOURNAL_2022_PART_16D-main.zip // 226.0 megabytes
 
-    - zip_file_54: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_16/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16-main.zip</a> // 133.7 megabytes
+    - zip_file_54: KARBYTES_JOURNAL_2022_PART_16-main.zip // 133.7 megabytes
 
-    - zip_file_55: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_0/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_0-main.zip</a> // 43.3 megabytes
+    - zip_file_55: KARBYTES_JOURNAL_2023_PART_0-main.zip // 43.3 megabytes
 
-    - zip_file_56: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT/" target="_blank" rel="noopener">KARBYTES_OBJECT-main.zip</a> // 216.5 megabytes
+    - zip_file_56: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_57: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_1/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_1-main.zip</a> // 86.8 megabytes    
+    - zip_file_57: KARBYTES_JOURNAL_2023_PART_1-main.zip // 86.8 megabytes    
 
-    - zip_file_58: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_2/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_2-main.zip</a> // 54.2 megabytes    
+    - zip_file_58: KARBYTES_JOURNAL_2023_PART_2-main.zip // 54.2 megabytes    
 
-    - zip_file_59: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_3/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_3-main.zip</a> // 59.2 megabytes    
+    - zip_file_59: KARBYTES_JOURNAL_2023_PART_3-main.zip // 59.2 megabytes    
 
-    - zip_file_60: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_4/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_4-main.zip</a> // 13.4 megabytes    
+    - zip_file_60: KARBYTES_JOURNAL_2023_PART_4-main.zip // 13.4 megabytes    
 
-    - zip_file_61: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_5/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_5-main.zip</a> // 25.8 megabytes    
+    - zip_file_61: KARBYTES_JOURNAL_2023_PART_5-main.zip // 25.8 megabytes    
 
-    - zip_file_62: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_6/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_6-main.zip</a> // 29.7 megabytes    
+    - zip_file_62: KARBYTES_JOURNAL_2023_PART_6-main.zip // 29.7 megabytes    
 
-    - zip_file_63: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_7/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_7-main.zip</a> // 17.6 megabytes    
+    - zip_file_63: KARBYTES_JOURNAL_2023_PART_7-main.zip // 17.6 megabytes    
 
-    - zip_file_64: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_8/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_8-main.zip</a> // 6.0 megabytes 
+    - zip_file_64: KARBYTES_JOURNAL_2023_PART_8-main.zip // 6.0 megabytes 
 
-    - zip_file_65: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_9/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_9-main.zip</a> // 70.4 megabytes    
+    - zip_file_65: KARBYTES_JOURNAL_2023_PART_9-main.zip // 70.4 megabytes    
 
-    - zip_file_66: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_10/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_10-main.zip</a> // 14.9 megabytes  
+    - zip_file_66: KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.9 megabytes  
 
-    - zip_file_67: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_11/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_11-main.zip</a> // 26.2 megabytes  
+    - zip_file_67: KARBYTES_JOURNAL_2023_PART_11-main.zip // 26.2 megabytes  
 
-    - zip_file_68: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_12/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_12-main.zip</a> // 93.4 megabytes  
+    - zip_file_68: KARBYTES_JOURNAL_2023_PART_12-main.zip // 93.4 megabytes  
 
-    - zip_file_69: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_13/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_13-main.zip</a> // 128.9 megabytes 
+    - zip_file_69: KARBYTES_JOURNAL_2023_PART_13-main.zip // 128.9 megabytes 
 
-    - zip_file_70: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_14/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_14-main.zip</a> // 8.0 megabytes   
+    - zip_file_70: KARBYTES_JOURNAL_2023_PART_14-main.zip // 8.0 megabytes   
 
-    - zip_file_71: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_15/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_15-main.zip</a> // 3.9 megabytes   
+    - zip_file_71: KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.9 megabytes   
 
-    - zip_file_72: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_16/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_16-main.zip</a> // 23.7 megabytes
+    - zip_file_72: KARBYTES_JOURNAL_2023_PART_16-main.zip // 23.7 megabytes
 
-    - zip_file_73: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_17/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_17-main.zip</a> // 6.4 megabytes
+    - zip_file_73: KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.4 megabytes
 
-    - zip_file_74: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_18/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_18-main.zip</a> // 12.6 megabytes
+    - zip_file_74: KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.6 megabytes
 
-    - zip_file_75: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_19/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_19-main.zip</a> // 19.7 megabytes
+    - zip_file_75: KARBYTES_JOURNAL_2023_PART_19-main.zip // 19.7 megabytes
 
-    - zip_file_76: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_20/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_20-main.zip</a> // 17.8 megabytes
+    - zip_file_76: KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.8 megabytes
 
-    - zip_file_77: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_21/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_21-main.zip</a> // 4.7 megabytes
+    - zip_file_77: KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.7 megabytes
 
-    - zip_file_78: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_22/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_22-main.zip</a> // 3.4 megabytes
+    - zip_file_78: KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.4 megabytes
 
-    - zip_file_79: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_23/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_23-main.zip</a> // 97.8 megabytes
+    - zip_file_79: KARBYTES_JOURNAL_2023_PART_23-main.zip // 97.8 megabytes
 
-    - zip_file_80: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_24/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_24-main.zip</a> // 57.3 megabytes
+    - zip_file_80: KARBYTES_JOURNAL_2023_PART_24-main.zip // 57.3 megabytes
 
-    - zip_file_81: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_25/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_25-main.zip</a> // 163.0 megabytes
+    - zip_file_81: KARBYTES_JOURNAL_2023_PART_25-main.zip // 163.0 megabytes
 
-    - zip_file_82: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_26/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_26-main.zip</a> // 85.7 megabytes
+    - zip_file_82: KARBYTES_JOURNAL_2023_PART_26-main.zip // 85.7 megabytes
 
-    - zip_file_83: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_27/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_27-main.zip</a> // 58.3 megabytes
+    - zip_file_83: KARBYTES_JOURNAL_2023_PART_27-main.zip // 58.3 megabytes
 
-    - zip_file_84: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_28/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_28-main.zip</a> // 80.3 megabytes
+    - zip_file_84: KARBYTES_JOURNAL_2023_PART_28-main.zip // 80.3 megabytes
 
-    - zip_file_85: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_29/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_29-main.zip</a> // 83.7 megabytes
+    - zip_file_85: KARBYTES_JOURNAL_2023_PART_29-main.zip // 83.7 megabytes
 
-    - zip_file_86: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_30/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_30-main.zip</a> // 69.0 megabytes
+    - zip_file_86: KARBYTES_JOURNAL_2023_PART_30-main.zip // 69.0 megabytes
 
-    - zip_file_87: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_31/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_31-main.zip</a> // 28.2 megabytes
+    - zip_file_87: KARBYTES_JOURNAL_2023_PART_31-main.zip // 28.2 megabytes
 
-    - zip_file_88: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_32/" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_32-main.zip</a> // 188.4 megabytes
+    - zip_file_88: KARBYTES_JOURNAL_2023_PART_32-main.zip // 188.4 megabytes
 
-    - zip_file_89: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_12_JUNE_2023/" target="_blank" rel="noopener">KARLINA_OBJECT_12_JUNE_2023-main.zip</a> // 20.3 megabytes
+    - zip_file_89: KARLINA_OBJECT_12_JUNE_2023-main.zip // 20.3 megabytes
 
-    - zip_file_90: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack/" target="_blank" rel="noopener">KARLINA_OBJECT_autumn_2023_starter_pack-main.zip</a> // 86.9 megabytes
+    - zip_file_90: KARLINA_OBJECT_autumn_2023_starter_pack-main.zip // 86.9 megabytes
 
-    - zip_file_91: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_0/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_0-main.zip</a> // 94.5 megabytes
+    - zip_file_91: KARLINA_OBJECT_extension_pack_0-main.zip // 94.5 megabytes
 
-    - zip_file_92: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_1/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_1-main.zip</a> // 40.7 megabytes
+    - zip_file_92: KARLINA_OBJECT_extension_pack_1-main.zip // 40.7 megabytes
 
-    - zip_file_93: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_2/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_2-main.zip</a> // 130.3 megabytes
+    - zip_file_93: KARLINA_OBJECT_extension_pack_2-main.zip // 130.3 megabytes
 
-    - zip_file_94: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_3/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_3-main.zip</a> // 381.2 megabytes
+    - zip_file_94: KARLINA_OBJECT_extension_pack_3-main.zip // 381.2 megabytes
 
-    - zip_file_95: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_4/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_4-main.zip</a> // 348.5 megabytes
+    - zip_file_95: KARLINA_OBJECT_extension_pack_4-main.zip // 348.5 megabytes
 
-    - zip_file_96: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_5/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_5-main.zip</a> // 218.5 megabytes
+    - zip_file_96: KARLINA_OBJECT_extension_pack_5-main.zip // 218.5 megabytes
 
-    - zip_file_97: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_6/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_6-main.zip</a> // 25.2 megabytes
+    - zip_file_97: KARLINA_OBJECT_extension_pack_6-main.zip // 25.2 megabytes
 
-    - zip_file_98: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_7/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_7-main.zip</a> // 44.0 megabytes
+    - zip_file_98: KARLINA_OBJECT_extension_pack_7-main.zip // 44.0 megabytes
 
-    - zip_file_99: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_8/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_8-main.zip</a> // 104.5 megabytes
+    - zip_file_99: KARLINA_OBJECT_extension_pack_8-main.zip // 104.5 megabytes
 
-    - zip_file_100: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_9/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_9-main.zip</a> // 237.5 megabytes
+    - zip_file_100: KARLINA_OBJECT_extension_pack_9-main.zip // 237.5 megabytes
 
-    - zip_file_101: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_10/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_10-main.zip</a> // 50.9 megabytes
+    - zip_file_101: KARLINA_OBJECT_extension_pack_10-main.zip // 50.9 megabytes
 
-    - zip_file_102: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_11/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_11-main.zip</a> // 8.6 megabytes
+    - zip_file_102: KARLINA_OBJECT_extension_pack_11-main.zip // 8.6 megabytes
 
-    - zip_file_103: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_12/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_12-main.zip</a> // 34.3 megabytes
+    - zip_file_103: KARLINA_OBJECT_extension_pack_12-main.zip // 34.3 megabytes
 
-    - zip_file_104: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_13/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_13-main.zip</a> // 12.5 megabytes
+    - zip_file_104: KARLINA_OBJECT_extension_pack_13-main.zip // 12.5 megabytes
 
-    - zip_file_105: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_14/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_14-main.zip</a> // 6.4 megabytes
+    - zip_file_105: KARLINA_OBJECT_extension_pack_14-main.zip // 6.4 megabytes
 
-    - zip_file_106: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_15/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_15-main.zip</a> // 42.3 megabytes
+    - zip_file_106: KARLINA_OBJECT_extension_pack_15-main.zip // 42.3 megabytes
 
-    - zip_file_107: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_16/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_16-main.zip</a> // 1035.0 megabytes
+    - zip_file_107: KARLINA_OBJECT_extension_pack_16-main.zip // 1035.0 megabytes
 
-    - zip_file_108: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_17/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_17-main.zip</a> // 760.2 megabytes
+    - zip_file_108: KARLINA_OBJECT_extension_pack_17-main.zip // 760.2 megabytes
 
-    - zip_file_109: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_18/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_18-main.zip</a> // 415.4 megabytes
+    - zip_file_109: KARLINA_OBJECT_extension_pack_18-main.zip // 415.4 megabytes
 
-    - zip_file_110: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_19/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_19-main.zip</a> // 698.7 megabytes
+    - zip_file_110: KARLINA_OBJECT_extension_pack_19-main.zip // 698.7 megabytes
 
-    - zip_file_111: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_20/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_20-main.zip</a> // 113.3 megabytes
+    - zip_file_111: KARLINA_OBJECT_extension_pack_20-main.zip // 113.3 megabytes
 
-    - zip_file_112: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_21/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_21-main.zip</a> // 81.3 megabytes
+    - zip_file_112: KARLINA_OBJECT_extension_pack_21-main.zip // 81.3 megabytes
 
-    - zip_file_113: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_22/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_22-main.zip</a> // 585.3 megabytes
+    - zip_file_113: KARLINA_OBJECT_extension_pack_22-main.zip // 585.3 megabytes
 
-    - zip_file_114: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_23/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_23-main.zip</a> // 161.9 megabytes
+    - zip_file_114: KARLINA_OBJECT_extension_pack_23-main.zip // 161.9 megabytes
 
-    - zip_file_115: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_24/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_24-main.zip</a> // 147.5 megabytes
+    - zip_file_115: KARLINA_OBJECT_extension_pack_24-main.zip // 147.5 megabytes
 
-    - zip_file_116: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_25/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_25-main.zip</a> // 154.3 megabytes
+    - zip_file_116: KARLINA_OBJECT_extension_pack_25-main.zip // 154.3 megabytes
 
-    - zip_file_117: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_26/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_26-main.zip</a> // 124.5 megabytes
+    - zip_file_117: KARLINA_OBJECT_extension_pack_26-main.zip // 124.5 megabytes
 
-    - zip_file_118: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_27/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_27-main.zip</a> // 398.8 megabytes
+    - zip_file_118: KARLINA_OBJECT_extension_pack_27-main.zip // 398.8 megabytes
 
-    - zip_file_119: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_28/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_28-main.zip</a> // 853.8 megabytes
+    - zip_file_119: KARLINA_OBJECT_extension_pack_28-main.zip // 853.8 megabytes
 
-    - zip_file_120: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_29/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_29-main.zip</a> // 191.5 megabytes
+    - zip_file_120: KARLINA_OBJECT_extension_pack_29-main.zip // 191.5 megabytes
 
-    - zip_file_121: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_30/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_30-main.zip</a> // 28.3 megabytes
+    - zip_file_121: KARLINA_OBJECT_extension_pack_30-main.zip // 28.3 megabytes
 
-    - zip_file_122: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_31/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_31-main.zip</a> // 91.6 megabytes
+    - zip_file_122: KARLINA_OBJECT_extension_pack_31-main.zip // 91.6 megabytes
     
-    - zip_file_123: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_32/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_32-main.zip</a> // 33.5 megabytes
+    - zip_file_123: KARLINA_OBJECT_extension_pack_32-main.zip // 33.5 megabytes
 
-    - zip_file_124: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_33/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_33-main.zip</a> // 1.2 megabytes
+    - zip_file_124: KARLINA_OBJECT_extension_pack_33-main.zip // 1.2 megabytes
 
-    - zip_file_125: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_34/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_34-main.zip</a> // 887.0 megabytes
+    - zip_file_125: KARLINA_OBJECT_extension_pack_34-main.zip // 887.0 megabytes
 
-    - zip_file_126: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_35/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_35-main.zip</a> // 254.5 megabytes
+    - zip_file_126: KARLINA_OBJECT_extension_pack_35-main.zip // 254.5 megabytes
 
-    - zip_file_127: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_36/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_36-main.zip</a> // 12.0 megabytes
+    - zip_file_127: KARLINA_OBJECT_extension_pack_36-main.zip // 12.0 megabytes
 
-    - zip_file_128: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_37/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_37-main.zip</a> // 86.3 megabytes
+    - zip_file_128: KARLINA_OBJECT_extension_pack_37-main.zip // 86.3 megabytes
 
-    - zip_file_129: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_38/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_38-main.zip</a> // 49.6 megabytes
+    - zip_file_129: KARLINA_OBJECT_extension_pack_38-main.zip // 49.6 megabytes
 
-    - zip_file_130: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_39/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_39-main.zip</a> // 304.0 megabytes
+    - zip_file_130: KARLINA_OBJECT_extension_pack_39-main.zip // 304.0 megabytes
 
-    - zip_file_131: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_40/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_40-main.zip</a> // 155.6 megabytes
+    - zip_file_131: KARLINA_OBJECT_extension_pack_40-main.zip // 155.6 megabytes
 
-    - zip_file_132: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_41/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_41-main.zip</a> // 401.3 megabytes
+    - zip_file_132: KARLINA_OBJECT_extension_pack_41-main.zip // 401.3 megabytes
 
-    - zip_file_133: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_42/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_42-main.zip</a> // 63.7 megabytes
+    - zip_file_133: KARLINA_OBJECT_extension_pack_42-main.zip // 63.7 megabytes
 
-    - zip_file_134: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_43/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_43-main.zip</a> // 80.7 megabytes
+    - zip_file_134: KARLINA_OBJECT_extension_pack_43-main.zip // 80.7 megabytes
 
-    - zip_file_135: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_44/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_44-main.zip</a> // 141.5 megabytes
+    - zip_file_135: KARLINA_OBJECT_extension_pack_44-main.zip // 141.5 megabytes
 
-    - zip_file_136: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_45/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_45-main.zip</a> // 73.3 megabytes
+    - zip_file_136: KARLINA_OBJECT_extension_pack_45-main.zip // 73.3 megabytes
 
-    - zip_file_137: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_46/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_46-main.zip</a> // 205.0 megabytes
+    - zip_file_137: KARLINA_OBJECT_extension_pack_46-main.zip // 205.0 megabytes
 
-    - zip_file_138: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_47/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_47-main.zip</a> // 6.2 megabytes
+    - zip_file_138: KARLINA_OBJECT_extension_pack_47-main.zip // 6.2 megabytes
 
-    - zip_file_139: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_48/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_48-main.zip</a> // 264.2 megabytes
+    - zip_file_139: KARLINA_OBJECT_extension_pack_48-main.zip // 264.2 megabytes
 
-    - zip_file_140: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_49/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_49-main.zip</a> // 312.1 megabytes
+    - zip_file_140: KARLINA_OBJECT_extension_pack_49-main.zip // 312.1 megabytes
 
-    - zip_file_141: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_summer_2023_starter_pack/" target="_blank" rel="noopener">KARLINA_OBJECT_summer_2023_starter_pack-main.zip</a> // 28.8 megabytes
+    - zip_file_141: KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 28.8 megabytes
 
-    - zip_file_142: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_winter_2023_starter_pack/" target="_blank" rel="noopener">KARLINA_OBJECT_winter_2023_starter_pack-main.zip</a> // 122.0 megabytes
+    - zip_file_142: KARLINA_OBJECT_winter_2023_starter_pack-main.zip // 122.0 megabytes
 
-    - zip_file_143: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_2020_SCREENSHOTS/" target="_blank" rel="noopener">MINDS_2020_SCREENSHOTS-main.zip</a> // 129.7 megabytes
+    - zip_file_143: MINDS_2020_SCREENSHOTS-main.zip // 129.7 megabytes
 
-    - zip_file_144: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0/" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip</a> // 2.0 megabytes
+    - zip_file_144: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 2.0 megabytes
 
-    - zip_file_145: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1/" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip</a> // 2.5 megabytes
+    - zip_file_145: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.5 megabytes
 
-    - zip_file_146: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2/" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip</a> // 1.5 megabytes
+    - zip_file_146: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
 
-    - zip_file_147: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3/" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip</a> // 4.5 megabytes
+    - zip_file_147: MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.5 megabytes
 
-    - zip_file_148: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip</a> // 479.3 kilobytes
+    - zip_file_148: PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip // 479.3 kilobytes
 
-    - zip_file_149: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip</a> // 16.1 megabytes
+    - zip_file_149: PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip // 16.1 megabytes
 
-    - zip_file_150: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_primary_website_copy_23_october_2022/" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip</a> // 15.0 megabytes
+    - zip_file_150: PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip // 15.0 megabytes
 
-    - zip_file_151: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories/" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip</a> // 283.1 kilobytes
+    - zip_file_151: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 283.1 kilobytes
 
-    - zip_file_152: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_TEMPLATE_micro_directory/" target="_blank" rel="noopener">TEMPLATE_micro_directory-main.zip</a> // 7.9 megabytes
+    - zip_file_152: TEMPLATE_micro_directory-main.zip // 7.9 megabytes
 
-    - zip_file_153: <strong>karbytes_dark_websites-main.zip</strong> // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_153: karbytes_dark_websites-main.zip // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_154: <strong>KARLINA_OBJECT_APPS-main.zip</strong> // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_154: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_155: <strong>KARBYTES_BLOG_APPS-main_31december2025.zip</strong> // 568.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_155: KARBYTES_BLOG_APPS-main_31december2025.zip // 568.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_156: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/" target="_blank" rel="noopener">karbytes_test_github_hosted_website-main.zip</a> // 23.6  megabytes
+    - zip_file_156: karbytes_test_github_hosted_website-main.zip // 23.6  megabytes
 
-    - zip_file_157: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/" target="_blank" rel="noopener">KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip</a> // 48.7  megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_157: KARBYTES_BLOG_APPS_github_hosted_website-main_31december2025.zip // 48.7  megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_158: <strong>karbytes_wayback_machine_saves_precision_batches-main.zip</strong> // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_158: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_159: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/" target="_blank" rel="noopener">KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip</a> // 267.9 megabytes
+    - zip_file_159: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_31december2025.zip // 267.9 megabytes
 
-    - zip_file_160: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_the_big_green_thing_2025/" target="_blank" rel="noopener">the_big_green_thing_2025-main.zip</a> // 936.7 megabytes
+    - zip_file_160: the_big_green_thing_2025-main.zip // 936.7 megabytes
 
-    - zip_file_161: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_reference_human_genome_fasta_hg38/" target="_blank" rel="noopener">reference_human_genome_fasta_hg38-main.zip</a> // 982.9 megabytes
+    - zip_file_161: reference_human_genome_fasta_hg38-main.zip // 982.9 megabytes
 
-    - zip_file_162: <strong>karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip</strong> // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_162: karbytes_wayback_machine_saves_precision_batches_extension_0-main_31december2025.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-<span style="background:#ffff00">M_DISC 2 of 3 (disc contains exactly one folder named karbytes2026_2)</span>
+M_DISC 2 of 3 (disc contains exactly one folder named karbytes2026_2)
 
-<span style="background:#ffff00">M_DISC 2 of 3 data collection name: <strong><em>karbytes_nexus</em></strong></span>
+M_DISC 2 of 3 data collection name: karbytes_nexus
 
-<span style="background:#ffff00">M_DISC 2 of 3 data collection size: approximately 23 gigabytes</span>
+M_DISC 2 of 3 data collection size: approximately 23 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 karbytes2026_2: // folder contains exactly 40 files (approximately 21581.94 megabytes total).
 
-    - zip_file_0: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_0/" target="_blank" rel="noopener">karbytes_human_genome_fasta_part_0-main.zip</a> // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
+    - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
-    - zip_file_1: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_1/" target="_blank" rel="noopener">karbytes_human_genome_fasta_part_1-main.zip</a> // 4.8 gigabytes (file checksum SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772)
+    - zip_file_1: karbytes_human_genome_fasta_part_1-main.zip // 4.8 gigabytes (file checksum SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772)
 
-    - zip_file_2: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_2/" target="_blank" rel="noopener">karbytes_human_genome_fasta_part_2-main.zip</a> // 3.7 gigabytes (file checksum SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2)
+    - zip_file_2: karbytes_human_genome_fasta_part_2-main.zip // 3.7 gigabytes (file checksum SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2)
 
-    - zip_file_3: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_human_genome_fasta_part_3/" target="_blank" rel="noopener">karbytes_human_genome_fasta_part_3-main.zip</a> // 2.1 gigabytes (file checksum SHA-256: 6a1784e76fe015a7d65802819fab73433c5f3208af111d561ab715d740c98e9c)
+    - zip_file_3: karbytes_human_genome_fasta_part_3-main.zip // 2.1 gigabytes (file checksum SHA-256: 6a1784e76fe015a7d65802819fab73433c5f3208af111d561ab715d740c98e9c)
 
-    - zip_file_4: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_23AndMe_Ancestry_Data/" target="_blank" rel="noopener">karbytes_23AndMe_Ancestry_Data-main.zip</a> // 6.8 18235.95 megabytes
+    - zip_file_4: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 18235.95 megabytes
 
-    - zip_file_5: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT/" target="_blank" rel="noopener">KARBYTES_OBJECT-main.zip</a> // 216.5 megabytes
+    - zip_file_5: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_6: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/" target="_blank" rel="noopener">KARBYTES_FOR_LIFE_BLOG-main_20april2026.zip</a> // 761.7 kilobytes
+    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_20april2026.zip // 761.7 kilobytes
 
-    - zip_file_7: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/" target="_blank" rel="noopener">KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip</a> // 300.0 megabytes
+    - zip_file_7: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 300.0 megabytes
 
-    - zip_file_8: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_the_big_green_thing_2025/" target="_blank" rel="noopener">the_big_green_thing_2025-main.zip</a> // 936.7 megabytes
+    - zip_file_8: the_big_green_thing_2025-main.zip // 936.7 megabytes
 
-    - zip_file_9: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_reference_human_genome_fasta_hg38/" target="_blank" rel="noopener">reference_human_genome_fasta_hg38-main.zip</a> // 982.9 megabytes
+    - zip_file_9: reference_human_genome_fasta_hg38-main.zip // 982.9 megabytes
 
-    - zip_file_10: <strong>karbytes_dark_websites-main.zip</strong> // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_10: karbytes_dark_websites-main.zip // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_11: <strong>KARLINA_OBJECT_APPS-main.zip</strong> // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_11: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_12: <strong>KARBYTES_BLOG_APPS-main_29march2026.zip</strong> // 643.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_12: KARBYTES_BLOG_APPS-main_29march2026.zip // 643.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_13: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/" target="_blank" rel="noopener">karbytes_test_github_hosted_website-main.zip</a> // 23.6  megabytes
+    - zip_file_13: karbytes_test_github_hosted_website-main.zip // 23.6  megabytes
 
-    - zip_file_14: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/" target="_blank" rel="noopener">KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip</a> // 72.3  megabytes
+    - zip_file_14: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 72.3  megabytes
 
-    - zip_file_15: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_49/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_49-main.zip</a> // 312.1 megabytes
+    - zip_file_15: KARLINA_OBJECT_extension_pack_49-main.zip // 312.1 megabytes
 
-    - zip_file_16: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_50/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_50-main.zip</a> // 790.2 megabytes
+    - zip_file_16: KARLINA_OBJECT_extension_pack_50-main.zip // 790.2 megabytes
 
-    - zip_file_17: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_51/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_51-main.zip</a> // 251.6 megabytes
+    - zip_file_17: KARLINA_OBJECT_extension_pack_51-main.zip // 251.6 megabytes
 
-    - zip_file_18: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_52/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_52-main.zip</a> // 35.5 megabytes
+    - zip_file_18: KARLINA_OBJECT_extension_pack_52-main.zip // 35.5 megabytes
 
-    - zip_file_19: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_53/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_53-main.zip</a> // 148.6 megabytes
+    - zip_file_19: KARLINA_OBJECT_extension_pack_53-main.zip // 148.6 megabytes
 
-    - zip_file_20: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_54/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_54-main.zip</a> // 67.5 megabytes
+    - zip_file_20: KARLINA_OBJECT_extension_pack_54-main.zip // 67.5 megabytes
 
-    - zip_file_21: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_55/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_55-main.zip</a> // 30.0 megabytes
+    - zip_file_21: KARLINA_OBJECT_extension_pack_55-main.zip // 30.0 megabytes
 
-    - zip_file_22: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_56/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_56-main.zip</a> // 212.3 megabytes
+    - zip_file_22: KARLINA_OBJECT_extension_pack_56-main.zip // 212.3 megabytes
 
-    - zip_file_23: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_57/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_57-main.zip</a> // 149.6 megabytes
+    - zip_file_23: KARLINA_OBJECT_extension_pack_57-main.zip // 149.6 megabytes
 
-    - zip_file_24: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_58/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_58-main.zip</a> // 9.9 megabytes
+    - zip_file_24: KARLINA_OBJECT_extension_pack_58-main.zip // 9.9 megabytes
 
-    - zip_file_25: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_59/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_59-main.zip</a> // 281.0 megabytes
+    - zip_file_25: KARLINA_OBJECT_extension_pack_59-main.zip // 281.0 megabytes
 
-    - zip_file_26: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_60/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_60-main.zip</a> // 561.0 megabytes
+    - zip_file_26: KARLINA_OBJECT_extension_pack_60-main.zip // 561.0 megabytes
 
-    - zip_file_27: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_61/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_61-main.zip</a> // 9.8 megabytes
+    - zip_file_27: KARLINA_OBJECT_extension_pack_61-main.zip // 9.8 megabytes
 
-    - zip_file_28: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_62/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_62-main.zip</a> // 311.4 megabytes
+    - zip_file_28: KARLINA_OBJECT_extension_pack_62-main.zip // 311.4 megabytes
 
-    - zip_file_29: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_63/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_63-main_20april2026.zip</a> // 9.8 megabytes
+    - zip_file_29: KARLINA_OBJECT_extension_pack_63-main_20april2026.zip // 9.8 megabytes
 
-    - zip_file_30: <strong>karbytes_wayback_machine_saves_precision_batches-main.zip</strong> // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_30: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_31: <strong>karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip</strong> // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_31: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_32: <strong>karbytes_wayback_machine_saves_precision_batches_extension_1-main_20april2026.zip</strong> // 107.6 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_32: karbytes_wayback_machine_saves_precision_batches_extension_1-main_20april2026.zip // 107.6 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_33: <strong>karbytes_basement_46-main.zip</strong> // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_33: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_34: <strong>karbytes_basement_47-main.zip</strong> // 168.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_34: karbytes_basement_47-main.zip // 168.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_35: <strong>karbytes_basement_48-main.zip</strong> // 23.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_35: karbytes_basement_48-main.zip // 23.2 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_36: <strong>karbytes_basement_49-main.zip</strong> // 179.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_36: karbytes_basement_49-main.zip // 179.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_37: <strong>karbytes_basement_50-main.zip</strong> // 33.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_37: karbytes_basement_50-main.zip // 33.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_38: <strong>karbytes_basement_51-main.zip</strong> // 108.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_38: karbytes_basement_51-main.zip // 108.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
   
-    - zip_file_39: <strong>karbytes_basement_52-main.zip</strong> // 94.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_39: karbytes_basement_52-main.zip // 94.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-<span style="background:#ffff00">M_DISC 3 of 3 (disc contains exactly one folder named karbytes2026_3)</span>
+M_DISC 3 of 3 (disc contains exactly one folder named karbytes2026_3)
 
-<span style="background:#ffff00">M_DISC 3 of 3 data collection name: <strong><em>karbytes_refinement</em></strong></span>
+M_DISC 3 of 3 data collection name: karbytes_refinement
 
-<span style="background:#ffff00">M_DISC 3 of 3 data collection size: approximately 3 gigabytes</span>
+M_DISC 3 of 3 data collection size: approximately 3 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 karbytes2026_3: // folder contains exactly 16 files (approximately 2019.81  megabytes total).
 
-    - zip_file_0: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_23AndMe_Ancestry_Data/" target="_blank" rel="noopener">karbytes_23AndMe_Ancestry_Data-main.zip</a> // 6.8 18235.95 megabytes
+    - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 18235.95 megabytes
 
-    - zip_file_1: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT/" target="_blank" rel="noopener">KARBYTES_OBJECT-main.zip</a> // 216.5 megabytes
+    - zip_file_1: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_2: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_FOR_LIFE_BLOG/" target="_blank" rel="noopener">KARBYTES_FOR_LIFE_BLOG-main_09may2026.zip</a> // 761.7 kilobytes
+    - zip_file_2: KARBYTES_FOR_LIFE_BLOG-main_09may2026.zip // 761.7 kilobytes
 
-    - zip_file_3: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO/" target="_blank" rel="noopener">KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip</a> // 300.0 megabytes
+    - zip_file_3: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 300.0 megabytes
 
-    - zip_file_4: <strong>karbytes_dark_websites-main.zip</strong> // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_4: karbytes_dark_websites-main.zip // 293.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_5: <strong>KARLINA_OBJECT_APPS-main.zip</strong> // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_5: KARLINA_OBJECT_APPS-main.zip // 24.0 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_6: <strong>KARBYTES_BLOG_APPS-main_29march2026.zip</strong> // 643.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_6: KARBYTES_BLOG_APPS-main_29march2026.zip // 643.9 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_7: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karbytes_test_github_hosted_website/" target="_blank" rel="noopener">karbytes_test_github_hosted_website-main.zip</a> // 23.6  megabytes
+    - zip_file_7: karbytes_test_github_hosted_website-main.zip // 23.6  megabytes
 
-    - zip_file_8: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_BLOG_APPS_github_hosted_website/" target="_blank" rel="noopener">KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip</a> // 72.3  megabytes
+    - zip_file_8: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 72.3  megabytes
 
-    - zip_file_9: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_63/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_63-main.zip</a> // 638.5 megabytes
+    - zip_file_9: KARLINA_OBJECT_extension_pack_63-main.zip // 638.5 megabytes
 
-    - zip_file_10: <a style="background: #000000;color: #00ff00" href="https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_64/" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_64-main_09may2026.zip</a> // 29.0 megabytes
+    - zip_file_10: KARLINA_OBJECT_extension_pack_64-main_09may2026.zip // 29.0 megabytes
 
-    - zip_file_11: <strong>karbytes_wayback_machine_saves_precision_batches-main.zip</strong> // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_11: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_12: <strong>karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip</strong> // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_12: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_13: <strong>karbytes_wayback_machine_saves_precision_batches_extension_1-main_09may2026.zip</strong> // 117.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_13: karbytes_wayback_machine_saves_precision_batches_extension_1-main_09may2026.zip // 117.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_14: <strong>karbytes_basement_53-main.zip</strong> // 147.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_14: karbytes_basement_53-main.zip // 147.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_15: <strong>karbytes_basement_54-main.zip</strong> // 14.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_15: karbytes_basement_54-main.zip // 14.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 END_OF_FILE
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-</pre>
-<hr />
-<p>This web page was last updated on 09_MAY_2026. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
-<hr>
