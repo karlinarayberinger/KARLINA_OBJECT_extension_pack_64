@@ -482,7 +482,7 @@ M_DISC 3 of 3 data collection size: approximately 3 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_3: // folder contains exactly 16 files (approximately 2112.43  megabytes total).
+karbytes2026_3: // folder contains exactly 16 files (approximately 2112.44  megabytes total).
 
     - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 18235.95 megabytes
 
@@ -510,7 +510,7 @@ karbytes2026_3: // folder contains exactly 16 files (approximately 2112.43  mega
 
     - zip_file_12: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_13: karbytes_wayback_machine_saves_precision_batches_extension_1-main_09may2026.zip // 117.9 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_13: karbytes_wayback_machine_saves_precision_batches_extension_1-main_10may2026.zip // 118.8 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_14: karbytes_basement_53-main.zip // 147.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
