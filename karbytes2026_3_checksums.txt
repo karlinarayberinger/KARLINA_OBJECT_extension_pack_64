@@ -8,7 +8,7 @@ Directory: karbytes2026_3
 
 file_0: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // SHA-256: 8444386ea8ba6819723a94f9c735fb5a547dda5e80fb4a46d4ac94bf93a253b4
 
-file_1: KARLINA_OBJECT_extension_pack_64-main_10may2026.zip // SHA-256: 90679d1d7b9be875b6fa51fb0f0054967db9e1737a56548509d038c9747f281b
+file_1: KARLINA_OBJECT_extension_pack_64-main_10may2026.zip // SHA-256: 4e265564f1f7bf14f678db2f7c5dd4eb2157afc260a7dd6c26d8509f177154d7
 
 file_2: KARLINA_OBJECT_extension_pack_63-main.zip // SHA-256: 62ddc42bf836de64108ffc72958f2917993314b1f27b87a4774a318b604d4062
 
