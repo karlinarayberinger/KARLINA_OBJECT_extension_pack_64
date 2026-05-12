@@ -10,7 +10,7 @@ file_0: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 68.93 m
 
 file_1: KARLINA_OBJECT_extension_pack_63-main.zip // 608.96 megabytes
 
-file_2: karbytes_basement_54-main.zip // 15.32 megabytes
+file_2: karbytes_basement_54-main.zip // 15.38 megabytes
 
 file_3: karbytes_wayback_machine_saves_precision_batches_extension_1-main_12may2026.zip // 0.11 megabytes
 
@@ -24,7 +24,7 @@ file_7: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
 
 file_8: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_9: KARLINA_OBJECT_extension_pack_64-main_12may2026.zip // 219.85 megabytes
+file_9: KARLINA_OBJECT_extension_pack_64-main_12may2026.zip // 241.12 megabytes
 
 file_10: KARBYTES_FOR_LIFE_BLOG-main_12may2026.zip // 1.72 megabytes
 
@@ -42,6 +42,6 @@ file_15: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 16
 
-Total folder size: 2214.89 megabytes
+Total folder size: 2236.22 megabytes
 
 --------------------------------
