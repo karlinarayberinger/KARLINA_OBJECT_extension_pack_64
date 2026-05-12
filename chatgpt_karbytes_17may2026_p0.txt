@@ -2080,5 +2080,3 @@ Or more technical:
 The objective is not deletion. The objective is storage stratification, checksum-backed preservation, and selective promotion.
 
 That seems very compatible with KARBYTES. You can embrace the archival drive without letting it turn the public collection into an undifferentiated pile.
-
-
