@@ -1,0 +1,24 @@
+/**
+ * file: journal_karbytes_19may2026_p0.txt
+ * type: plain-text
+ * date: 13_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+The fourth time capsule of KARBYTES is scheduled to be buried no later than 31_JUNE_2026 at the same burial site as the previous three KARBYTES time capsules.
+
+The fourth time capsule burial of KARBYTES stores the finalized version of karbytes2026_3 (using 25-gigabyte M_DISC blu-ray optical discs for "long-term" digital information storage).
+
+For more information about this project, visit the following web pages of KARBYTES:
+
+web_page[0]: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_3/
+
+web_page[1]: https://karbytesforlifeblog.wordpress.com/journal_karbytes_05may2026/
+
+web_page[2]: https://karbytesforlifeblog.wordpress.com/karbytes_code_possibly_stops_growing/
+
+Sincerely,
+karbytes 

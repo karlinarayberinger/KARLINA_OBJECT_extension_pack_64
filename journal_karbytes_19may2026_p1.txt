@@ -1,0 +1,79 @@
+/**
+ * file: journal_karbytes_19may2026_p1.txt
+ * type: plain-text
+ * date: 14_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt
+        index.html 
+        sub-index_page_85.html
+        sub-index_page_86.html
+        sub-index_page_87.html
+        sub-index_page_88.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
+
+https://raw.g.ithubusercontent.com/informationcrystals/projects/main/sub-index_page_85.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_86.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_87.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_88.html
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/amazon_time_capsule_purchases_13may2026.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/fourth_time_capsule_karbytes_donation_13may2026.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_19may2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_19may2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_19may2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_life_experience_moment_14may2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_life_experience_moment_14may2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_life_experience_moment_14may2026_p2.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/night_bird_sounds_14may2026.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_64.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_65.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/shadow_of_karbytes_13may2026.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_19may2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep64.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
