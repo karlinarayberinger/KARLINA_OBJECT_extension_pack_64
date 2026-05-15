@@ -1,0 +1,41 @@
+/**
+ * file: chatgpt_karbytes_19may2026_p1.txt
+ * type: plain-text
+ * date: 14_MAY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.5 which took place between 11:59PM Pacific Standard Time on 13_MAY_2026 and 11:59PM Pacific Standard Time on 14_MAY_2026.
+
+* * *
+
+karbytes:
+
+How many digits are in the number Pi?
+
+ChatGPT:
+
+Pi has infinitely many digits.
+
+That’s because π is irrational, meaning it cannot be written exactly as a ratio of two integers, and its decimal expansion never terminates or repeats:
+
+3.14159265358979323846264338327950288419716939937510...
+
+So there is no “last digit” of π. Computers have calculated trillions of digits, but that is only a finite approximation of an infinite decimal.
+
+karbytes:
+
+Are computers currently attempting to calculate digits of Pi (for indefinitely many digits (and with maximal and expanding computational power))?
+
+ChatGPT:
+
+Yes, but not as one unified permanent project.
+
+Computers are repeatedly being used to calculate more digits of π, especially for world records, hardware stress tests, storage benchmarks, and algorithm validation. The current record I found is 314 trillion decimal digits, computed in late 2025 with y-cruncher; Backblaze says the run lasted about 110 days on one server. 
+
+But no computer is literally calculating π “indefinitely.” Each run has a finite target, such as 300 trillion or 314 trillion digits. Then someone may later attempt a larger target as hardware, storage, algorithms, and motivation improve.
+
+So the practical pattern is:
+
+π has infinitely many digits → humans/computers set larger finite targets → records expand over time → the process could continue without theoretical end, but each actual computation is finite.
